@@ -11,5 +11,3 @@ print(f"my name is {name}, I am {age}")
 age = input("age? ")
 name = input("name? ")
 print(f"my name is {name}, I am {age}")
-
-
